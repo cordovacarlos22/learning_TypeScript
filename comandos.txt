@@ -1,3 +1,0 @@
-para escuchar o compilar usar = tsc 'nombre.ts' -w 
-para inicializar un proyecto de typescript usar tsc -init 
-luego usar tsc -w para escuchar de forma global los cambios en cualquier archivo .ts
